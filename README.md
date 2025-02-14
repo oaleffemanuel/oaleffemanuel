@@ -1,5 +1,5 @@
 # Hey, I'm Aleff!
-I'm a **Software Engineer**, driven developer, and **tech enthusiast** from Brazil, passionate about crafting innovative solutions and turning ideas into impactful projects.
+I'm a **Software Developer** and **tech enthusiast** from Brazil, passionate about crafting innovative solutions and turning ideas into impactful projects.
 
 # 🌟 About Me
 I’m currently studying Information Systems at UniAmerica, combining academic knowledge with hands-on experience in programming. With a strong base in HTML and CSS, I’m advancing my expertise in JavaScript, web and iOS applications.
