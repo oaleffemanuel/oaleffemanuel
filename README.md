@@ -5,5 +5,5 @@ I'm a software developer from Brazil, currently focused on building ios applicat
 ---
 ## Let’s connect!
 
-- 📧 Email: aleffemanuel@icloud.com  
-- 🔗 LinkedIn: [Click here](https://www.linkedin.com/in/SEU-LINK-AQUI)
+- Email: aleffemanuel@icloud.com  
+- LinkedIn: [Click here]([https://www.linkedin.com/in/oaleffemanuel/])
